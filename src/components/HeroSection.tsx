@@ -26,7 +26,7 @@ const HeroSection = () => {
             are getting married
           </p>
           <p className="font-serif text-lg md:text-xl text-gray-600">
-            April 2026
+            November 2025
           </p>
           <p className="font-serif text-lg md:text-xl text-gray-600">
             Berlin, Germany

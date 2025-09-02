@@ -21,7 +21,7 @@ const DetailsSection = () => {
             <div className="space-y-4">
               <div className="flex items-center">
                 <Clock className="w-5 h-5 text-wedding-rose mr-3" />
-                <span className="text-gray-700">12:00 PM</span>
+                <span className="text-gray-700">09:45 AM</span>
               </div>
               <div className="flex items-start">
                 <MapPin className="w-5 h-5 text-wedding-rose mr-3 mt-1" />

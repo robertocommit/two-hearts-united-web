@@ -12,7 +12,7 @@ const Footer = () => {
             <Heart className="w-6 h-6 text-wedding-rose ml-2" />
           </div>
           <p className="font-serif text-lg text-gray-300 mb-6">
-            April 2026 • Berlin, Germany
+            November 2025 • Berlin, Germany
           </p>
         </div>
 
