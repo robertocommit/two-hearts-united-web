@@ -13,7 +13,12 @@ const StorySection = () => {
     {
       year: "2022",
       title: "Moving In Together",
-      description: "In 2022, we moved in together, turning our shared dreams into a cozy home in Berlin-Steglitz."
+      description: "In 2022, we moved in together. We were lucky enough to find a fantastic apartment in Steglitz, and soon we also fell in love with Steglitz itself—it became our Berlin, a neighborhood that felt like home and where our shared life truly started to blossom."
+    },
+    {
+      year: "2023",
+      title: "Year of Change",
+      description: "2023 was a year of big professional changes for both of us. Amidst the transitions, our relationship only grew stronger, proving that we were not just partners in love, but also in life’s challenges."
     },
     {
       year: "2024",
@@ -21,7 +26,7 @@ const StorySection = () => {
       description: "Roberto proposed during a ping pong match at our favourite spot in 2024. In the middle of a playful rally, he paused, pulled out a ring, and dropped to one knee beside the table. Trang, caught off guard and overjoyed, said yes!"
     },
     {
-      year: "2026",
+      year: "2025",
       title: "Our Wedding Day",
       description: "And now, we're ready to celebrate our love with all of our favorite people at the charming Standesamt in Steglitz."
     }

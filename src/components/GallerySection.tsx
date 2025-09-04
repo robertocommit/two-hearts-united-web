@@ -6,12 +6,18 @@ const GallerySection = () => {
   // Use all images from the public/special_moments folder
   const photos = [
   
-    '/special_moments/aquila.jpg', 
-    '/special_moments/berlin_berlinale.jpg',
-    '/special_moments/christmas_2024.jpg', 
+    '/special_moments/first_pic.jpg',
+    '/special_moments/aquila.jpg',
+    '/special_moments/relocation.jpg',
+    '/special_moments/temphelof.jpg',
     '/special_moments/2_first_pizza.jpeg',
-    '/special_moments/maremma_robi.jpg',
-    '/special_moments/maremma_trang.jpg', 
+    '/special_moments/bus_berlin.jpg',
+    '/special_moments/tici.jpg', 
+    '/special_moments/christmas_2024.jpg', 
+    '/special_moments/berlin_berlinale.jpg',
+    '/special_moments/vietnam.jpg',
+    '/special_moments/lago_maggiore.jpg',
+    '/special_moments/isola_madre.jpg'
     
       
     // Add more images here as needed

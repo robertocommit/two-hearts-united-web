@@ -1,4 +1,4 @@
-import { MapPin, Clock, Calendar, Utensils } from "lucide-react"
+import { MapPin, Clock, Calendar, Utensils, Bus } from "lucide-react"
 
 const DetailsSection = () => {
   return (
@@ -40,19 +40,19 @@ const DetailsSection = () => {
               <div className="w-16 h-16 mx-auto mb-4 bg-gradient-to-br from-red-50 to-red-100 rounded-full flex items-center justify-center">
                 <Utensils className="w-8 h-8 text-red-600" strokeWidth={1.5} />
               </div>
-              <h3 className="font-serif text-2xl font-semibold text-gray-800 mb-2">Restaurant</h3>
+              <h3 className="font-serif text-2xl font-semibold text-gray-800 mb-2">Reception</h3>
             </div>
             <div className="space-y-4">
               <div className="flex items-center">
                 <Clock className="w-5 h-5 text-wedding-rose mr-3" />
-                <span className="text-gray-700">2:00 PM - 6:00 PM</span>
+                <span className="text-gray-700">After the Ceremony</span>
               </div>
               <div className="flex items-start">
-                <MapPin className="w-5 h-5 text-wedding-rose mr-3 mt-1" />
+                <Bus className="w-5 h-5 text-wedding-rose mr-3 mt-1" />
                 <div>
-                  <p className="text-gray-700 font-medium">Restaurant Noumi</p>
-                  <p className="text-gray-600">Bundesallee 75</p>
-                  <p className="text-gray-600">12161 Berlin</p>
+                  <p className="text-gray-700 font-medium">An elegant restaurant will follow after the ceremony.</p>
+                  <p className="text-gray-600">We will all reach the restaurant together by public bus.</p>
+                  <p className="text-gray-600">Please come by public transport, as there is no need to bring a car.</p>
                 </div>
               </div>
             </div>
@@ -65,7 +65,7 @@ const DetailsSection = () => {
           <div className="grid md:grid-cols-3 gap-6 text-center">
             <div>
               <h4 className="font-semibold text-gray-800 mb-2">Dress Code</h4>
-              <p className="text-gray-600">Spring Chic & Elegant</p>
+              <p className="text-gray-600">Autumn Chic & Elegant</p>
             </div>
             <div>
               <h4 className="font-semibold text-gray-800 mb-2">Pictures</h4>
@@ -75,8 +75,8 @@ const DetailsSection = () => {
               </p>
             </div>
             <div>
-              <h4 className="font-semibold text-gray-800 mb-2">Parking</h4>
-              <p className="text-gray-600">Complimentary valet parking</p>
+              <h4 className="font-semibold text-gray-800 mb-2">Transport</h4>
+              <p className="text-gray-600">We will travel together by bus to the reception. No need for cars.</p>
             </div>
           </div>
         </div>

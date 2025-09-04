@@ -12,7 +12,7 @@ const Footer = () => {
             <Heart className="w-6 h-6 text-wedding-rose ml-2" />
           </div>
           <p className="font-serif text-lg text-gray-300 mb-6">
-            November 2025 • Berlin, Germany
+            The 7th of November 2025 • Berlin, Germany
           </p>
         </div>
 
@@ -26,7 +26,7 @@ const Footer = () => {
               </div>
               <div className="flex items-center justify-center">
                 <Phone className="w-4 h-4 mr-2" />
-                <span>(+49) 1525 9022076</span>
+                <span>(+49) 152 59022076</span>
               </div>
             </div>
           </div>
@@ -40,7 +40,7 @@ const Footer = () => {
               </div>
               <div className="flex items-center justify-center">
                 <Phone className="w-4 h-4 mr-2" />
-                <span>(555) 765-4321</span>
+                <span>(+49) 176 21567199</span>
               </div>
             </div>
           </div>

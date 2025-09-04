@@ -12,7 +12,7 @@ const RSVPSection = () => {
             RSVP
           </h2>
           <p className="font-serif text-xl text-gray-600">
-            Please confirm your attendance by January 15th, 2026.<br/>
+            Please confirm your attendance by September 20th, 2026.<br/>
             When sending your RSVP via WhatsApp, please include:
           </p>
         </div>
