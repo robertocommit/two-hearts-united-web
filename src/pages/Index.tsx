@@ -5,7 +5,6 @@ import StorySection from '@/components/StorySection';
 import DetailsSection from '@/components/DetailsSection';
 import GallerySection from '@/components/GallerySection';
 import RSVPSection from '@/components/RSVPSection';
-import RegistrySection from '@/components/RegistrySection';
 import Footer from '@/components/Footer';
 
 const Index = () => {
@@ -17,7 +16,6 @@ const Index = () => {
       <DetailsSection />
       <GallerySection />
       <RSVPSection />
-      <RegistrySection />
       <Footer />
     </div>
   );

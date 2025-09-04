@@ -26,7 +26,7 @@ const DetailsSection = () => {
               <div className="flex items-start">
                 <MapPin className="w-5 h-5 text-wedding-rose mr-3 mt-1" />
                 <div>
-                  <p className="text-gray-700 font-medium">Standesamt Lichterfelde "Hochzeitsvilla"</p>
+                  <p className="text-gray-700 font-medium">Standesamt Steglitz-Zehlendorf "Hochzeitsvilla"</p>
                   <p className="text-gray-600">Teltower Damm 10</p>
                   <p className="text-gray-600">14169 Berlin</p>
                 </div>
