@@ -66,6 +66,7 @@ const DetailsSection = () => {
             <div>
               <h4 className="font-semibold text-gray-800 mb-2">Dress Code</h4>
               <p className="text-gray-600">Autumn Chic & Elegant</p>
+              <p className="text-gray-600">Men should avoid wearing green.</p>
             </div>
             <div>
               <h4 className="font-semibold text-gray-800 mb-2">Pictures</h4>
