@@ -27,6 +27,7 @@ const Navigation = () => {
     { name: 'Our Story', href: '#story' },
     { name: 'Details', href: '#details' },
     { name: 'Gallery', href: '#gallery' },
+    { name: 'Wedding Photos', href: '#wedding-photos' },
     { name: 'RSVP', href: 'https://wa.me/?text=I%20would%20like%20to%20RSVP%20for%20Trang%20and%20Roberto%27s%20wedding!' },
   ];
 
